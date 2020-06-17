@@ -42,6 +42,6 @@ Ensemble Transform Kalman Filter (ETKF), the Ensemble Square Root Filter
 Sampling Importance Resampling (ASIR) Particle filter.
 
 ## Installation
-Check Appendix A of the document/file "manuscript_user_guide.pdf"
+Check Appendix A of the document/file "manuscript_user_guide.pdf".
 ## User's guide
-Check Chapters 3 and 4 of the document/file "manuscript_user_guide.pdf"
+Check Chapters 3 and 4 of the document/file "manuscript_user_guide.pdf".
