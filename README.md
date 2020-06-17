@@ -6,8 +6,8 @@
 <strong>Academic year </strong>: 2012-2013
 
 <strong>Author:</strong> Wannes Van den Bossche <br>
-<strong>Supervisor</strong>: Dr. Ir. Oscar Mauricio Agudelo <br>
-<strong>Promotor:</strong>  Prof. Dr. Ir. Bart De Moor <br>
+<strong>Supervisor</strong>: <a href="mailto:mauricio.agudelo@esat.kuleuven.be">Dr. Ir. Oscar Mauricio Agudelo </a> <br>
+<strong>Promotor:</strong> <a href="mailto:Bart.DeMoor@esat.kuleuven.be">Prof. Dr. Ir. Bart De Moor</a> <br>
  
 
 ## Summary
