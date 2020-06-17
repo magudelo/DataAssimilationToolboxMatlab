@@ -5,9 +5,9 @@
 <strong>University:</strong> KU Leuven <br>
 <strong>Academic year </strong>: 2012-2013
 
-<strong>Author:</strong> <a href="mailto:vandenbossche.w@hotmail.com">Wannes Van den Bossche </a><br>
+<strong>Author:   </strong> <a href="mailto:vandenbossche.w@hotmail.com">Wannes Van den Bossche </a><br>
 <strong>Supervisor</strong>: <a href="mailto:mauricio.agudelo@esat.kuleuven.be">Dr. Ir. Oscar Mauricio Agudelo </a> <br>
-<strong>Promotor:</strong> <a href="mailto:Bart.DeMoor@esat.kuleuven.be">Prof. Dr. Ir. Bart De Moor</a> <br>
+<strong>Promotor: </strong> <a href="mailto:Bart.DeMoor@esat.kuleuven.be">Prof. Dr. Ir. Bart De Moor</a> <br>
  
  <strong> "The code is not being maintained" </strong>
 
