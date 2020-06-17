@@ -2,14 +2,12 @@
 
 <strong>Master thesis title:</strong> Data assimilation toolbox for Matlab <br>
 <strong>Master Program:</strong> Master of Mathematical Engineering <br>
-<strong>University:</strong> KU Leuven <br><br>
+<strong>University:</strong> KU Leuven <br>
 
 <strong>Author:</strong> Wannes Van den Bossche <br>
 <strong>Supervisor</strong>: Dr. Ir. Oscar Mauricio Agudelo <br>
 <strong>Promotor:</strong>  Prof. Dr. Ir. Bart De Moor <br>
-
-
-  
+ 
 
 ## Summary
 Data assimilation is the common name given to the techniques that combine numerical models and measurements in order to obtain an improved estimation of the state
