@@ -17,7 +17,7 @@ are subject to uncertainties that can be defined as a statistical distribution. 
 goal of data assimilation is to combine the knowledge of models, measurements and
 uncertainties to obtain a better estimation than either the measurements or the
 models alone can provide. The application of this technique arises in many fields
-such as weather forecasting, oceanography, space weather forecasting and air quality.
+such as weather forecasting, oceanography, space weather forecasting and air quality. <br>
 Although data assimilation is a highly active research domain, Matlab does not
 have an official data assimilation toolbox. This is why the goal of this thesis has
 been to develop a generic data assimilation toolbox for Matlab with at least five
@@ -29,7 +29,7 @@ the acquired data assimilation results are incorporated. By applying the Matlab
 object-oriented programming approach, the toolbox not only provides the required
 generic behaviour, but also maintains a structured framework that can be easily
 extended with new algorithms and classes. Furthermore, the interface of the toolbox
-is intuitively straightforward since it resembles the ones of official Matlab toolboxes.
+is intuitively straightforward since it resembles the ones of official Matlab toolboxes.<br>
 The toolbox currently contains data assimilation techniques that range from the
 regular Kalman filter up to particles filters. More specifically the data assimilation
 toolbox is equipped with the following techniques: the Kalman Filter (KF), the
