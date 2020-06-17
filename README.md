@@ -44,4 +44,4 @@ Sampling Importance Resampling (ASIR) Particle filter.
 ## Installation
 Check Appendix A of the document/file "manuscript_user_guide.pdf"
 ## User's guide
-Check Chapter 3 of the document/file "manuscript_user_guide.pdf"
+Check Chapters 3 and 4 of the document/file "manuscript_user_guide.pdf"
