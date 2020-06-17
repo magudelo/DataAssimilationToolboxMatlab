@@ -1,8 +1,8 @@
 # Data Assimilation Toolbox for Matlab
 
-This Toolbox is the outcome of the master thesis "Data assimilation toolbox for Matlab" <br><br>
-Master Program: Master of Mathematical Engineering <br>
-University: KU Leuven <br><br>
+<strong>Master thesis title:</strong> Data assimilation toolbox for Matlab <br>
+<strong>Master Program:</strong> Master of Mathematical Engineering <br>
+<strong>University:</strong> KU Leuven <br><br>
 
 <strong>Author:</strong> Wannes Van den Bossche <br>
 <strong>Supervisor</strong>: Dr. Ir. Oscar Mauricio Agudelo <br>
