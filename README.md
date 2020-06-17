@@ -9,6 +9,7 @@
 <strong>Supervisor</strong>: <a href="mailto:mauricio.agudelo@esat.kuleuven.be">Dr. Ir. Oscar Mauricio Agudelo </a> <br>
 <strong>Promotor:</strong> <a href="mailto:Bart.DeMoor@esat.kuleuven.be">Prof. Dr. Ir. Bart De Moor</a> <br>
  
+ <strong> "The code is not being maintained" </strong>
 
 ## Summary
 Data assimilation is the common name given to the techniques that combine numerical models and measurements in order to obtain an improved estimation of the state
