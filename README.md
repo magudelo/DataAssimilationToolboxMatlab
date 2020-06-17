@@ -3,6 +3,7 @@
 <strong>Master thesis title:</strong> Data assimilation toolbox for Matlab <br>
 <strong>Master Program:</strong> Master of Mathematical Engineering <br>
 <strong>University:</strong> KU Leuven <br>
+<strong>Academic year </strong>: 2012-2013
 
 <strong>Author:</strong> Wannes Van den Bossche <br>
 <strong>Supervisor</strong>: Dr. Ir. Oscar Mauricio Agudelo <br>
