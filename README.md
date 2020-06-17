@@ -40,3 +40,7 @@ Ensemble Transform Kalman Filter (ETKF), the Ensemble Square Root Filter
 (EnSRF), the Optimal Interpolation (OI) technique, the Generic Particle filter
 (GEN), the Sampling Importance Resampling (SIR) Particle filter and the Auxiliary
 Sampling Importance Resampling (ASIR) Particle filter.
+
+## Installation
+
+## User's guide
